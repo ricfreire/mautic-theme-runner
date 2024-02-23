@@ -1,0 +1,9 @@
+{
+  "name": "Runner",
+  "author": "Ricardo Freire",
+  "authorUrl": "https://github.com/ricfreire",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ]
+}
