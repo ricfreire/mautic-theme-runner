@@ -11,3 +11,12 @@ Totally free. Personal or Commercial use is permitted with no attribution requir
 ### 📷 Images usage recommendation
 
 Use the template freely, but be sure to verify the [Pexel's image license](https://www.pexels.com/license/) rights for commercial projects.
+If you own the images and wish for them to be removed, please contact me.
+
+### 🎨 Figma
+
+*Coming soon*
+
+### 🐛 Bug
+
+If you encounter any bugs or issues related to the theme, please feel free to report them!
